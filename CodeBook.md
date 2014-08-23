@@ -28,8 +28,8 @@ Many of the column names are the same as in the original source data; however, *
 
 | Column Name | Meaning |
 | ----------- | ------- |
-| activity_id: | Unique identifier for the activity type. Described in the original data set's readme. | 
-| subject_id: | Unique identifier for a subject, from 1-30. | 
+| activity_id | Unique identifier for the activity type. Described in the original data set's readme. | 
+| subject_id | Unique identifier for a subject, from 1-30. | 
 | tBodyAcc-mean()-X | Average value for this {activity id, subject id} pair. |  
 | tBodyAcc-mean()-Y | See previous description. |
 | *Remaining Columns* | All columns except for the last column ("description") have the same definition as the previous two columns. |
