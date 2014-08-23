@@ -8,4 +8,4 @@ Project for the *Getting and Cleaning Data* course.
 * You will now have a folder called "UCI HAR Dataset" in your directory.
 
 ## Analysis Steps (Next do this)
-1. Source and run the R script (analyze.R). Make sure you are in the same directory as the unzipped data.
+1. Source and run the R script (run_analysis.R). Make sure you are in the same directory as the unzipped data.
